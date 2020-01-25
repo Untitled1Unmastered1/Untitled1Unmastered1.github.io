@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'#CLI GEM Project: 14 of the Greatest Ancient Battles!'"
-date:       2020-01-25 10:35:54 +0000
+date:       2020-01-25 05:35:55 -0500
 permalink:  cli_gem_project_14_of_the_greatest_ancient_battles
 ---
 
